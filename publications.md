@@ -1,3 +1,29 @@
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+  }
+
+  a {
+    color: #4dbbff;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  pre, code {
+    background-color: #2d2d2d;
+    border: 1px solid #444;
+  }
+
+  strong {
+    color: #f0f0f0;
+  }
+}
+</style>
+
 # Publications
 
 You can find a full list of my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=Ag36EtoAAAAJ).
