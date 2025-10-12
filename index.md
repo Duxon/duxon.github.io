@@ -26,25 +26,24 @@
 
 <img src="/assets/img/me.png" alt="Jacob Seifert" style="width: 200px; border-radius: 50%;">
 
-# Jacob Seifert, Ph.D.
+## Weblinks to my projects and publications
 
+Weblinks
 [GitHub](https://github.com/Duxon) | [YouTube](https://www.youtube.com/@JacobSeifert) | [Google Scholar](https://scholar.google.com/citations?user=Ag36EtoAAAAJ) | [Email](mailto:derduxon+github.io@gmail.com)
 
----
-
-## About Me
-
-I am a postdoctoral researcher with a passion for optics, estimation theory, computational imaging, data science, and machine learning. I enjoy the process of making sense of data and applying my skills to both research and engineering tasks. I am always looking for new challenges and opportunities to learn and grow.
-
-## News
-
-*   **11/2024 – Present:** Postdoctoral Researcher at Utrecht University, Nanophotonics Group.
-*   **07/2024:** Defended my Ph.D. thesis: "Differentiable Modeling for Computational Imaging".
-*   **01/2024 – 09/2024:** Postdoctoral Researcher at Advanced Research Center for Nanolithography (ARCNL), Amsterdam.
-
----
-
-## Content
+## More Content
 
 *   [Publications](/publications)
 *   [CV](/assets/pdf/CV.pdf)
+
+## News
+
+*   **11/2024:** Postdoctoral Researcher at Utrecht University, Nanophotonics Group. I'm currently working on algorithms and the experimental realization of a new overlay metrology method in collaboration with ASML research.
+*   **07/2024:** Defended my Ph.D. thesis: "Differentiable Modeling for Computational Imaging".
+*   **01/2024 – 09/2024:** Postdoctoral Researcher at Advanced Research Center for Nanolithography (ARCNL), Amsterdam.
+*   **5/2023:** Grand opening of Utrecht University's first maker space [LPL](https://www.uu.nl/en/research/lilis-proto-lab). It was a lot of fun working towards that point. 
+*   **12/2018:** Started my Ph.D. with Allard P. Mosk on phase retrieval algorithms and computational imaging.
+
+---
+
+
