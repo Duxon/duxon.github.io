@@ -28,8 +28,7 @@
 
 ## Weblinks to my projects and publications
 
-Weblinks
-[Google Scholar](https://scholar.google.com/citations?user=Ag36EtoAAAAJ) | [YouTube](https://www.youtube.com/@JacobSeifert) | [GitHub](https://github.com/Duxon) | [LinkedIn](https://www.linkedin.com/in/jacob-seifert-458933152/) | [Email](mailto:derduxon+github.io@gmail.com)
+Check out my work on: [Google Scholar](https://scholar.google.com/citations?user=Ag36EtoAAAAJ) | [YouTube](https://www.youtube.com/@JacobSeifert) | [GitHub](https://github.com/Duxon) | [LinkedIn](https://www.linkedin.com/in/jacob-seifert-458933152/) | [Email](mailto:derduxon+github.io@gmail.com)
 
 ## More Content
 
