@@ -24,7 +24,7 @@
 }
 </style>
 
-<img src="/assets/img/me.png" alt="Jacob Seifert" style="width: 200px; border-radius: 50%;">
+<img src="/assets/img/me.png" alt="Jacob Seifert" style="width: 150px; border-radius: 50%;">
 
 ## Weblinks to my projects and publications
 
@@ -36,13 +36,7 @@ Check out my work on:
 *   [Publications](/publications)
 *   [CV](/assets/pdf/CV.pdf)
 
-## News
-
-*   **11/2024:** Starting Postdoctoral Researcher position at Utrecht University, Nanophotonics Group. I'm currently working on algorithms and the experimental realization of a new overlay metrology method in collaboration with ASML research.
-*   **07/2024:** Defended my Ph.D. thesis: "Differentiable Modeling for Computational Imaging".
-*   **01/2024 – 09/2024:** Postdoctoral Researcher at Advanced Research Center for Nanolithography (ARCNL), Amsterdam. Working on algorithms for a new type of image sensor: high-speed event-driven camera Timepix3. 
-*   **5/2023:** Grand opening of Utrecht University's first maker space [LPL](https://www.uu.nl/en/research/lilis-proto-lab). It was a lot of fun working towards that point. 
-*   **12/2018:** Started my Ph.D. with Allard P. Mosk on phase retrieval algorithms and computational imaging.
+### Auto-differentiable ptychography
 
 ---
 
