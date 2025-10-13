@@ -42,7 +42,7 @@ Check out my work on:
 ### Auto-differentiable ptychography
 
 ### Maker Space in Utrecht University
-In 2022, with a small team of staff lead by Sanli Faez, we set up the first maker space for digital fabrication at Utrecht University: [Lili's Proto Lab](https://www.uu.nl/en/research/lilis-proto-lab). It was a lot of fun working towards this grand opening, and I documented the first wave of (student) projects in the [yearly report of 2022](https://github.com/LilisProtoLab/LPL_yearly_report_2022/blob/main/LPL_report_2022.pdf).
+In 2022, with a small team of staff lead from physics/biology/informatics, we set up the first maker space for digital fabrication at Utrecht University: [Lili's Proto Lab](https://www.uu.nl/en/research/lilis-proto-lab). It was a lot of fun working towards this grand opening, and I documented the first wave of (student) projects in the [yearly report of 2022](https://github.com/LilisProtoLab/LPL_yearly_report_2022/blob/main/LPL_report_2022.pdf).
 
 ---
 
