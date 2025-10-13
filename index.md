@@ -36,7 +36,9 @@ Check out my work on:
 *   [Publications](/publications)
 *   [CV](/assets/pdf/CV.pdf)
 
-## Past Projects
+---
+
+## Previous Projects
 ### Auto-differentiable ptychography
 
 ### Maker Space in Utrecht University
