@@ -54,7 +54,7 @@ My work in this field has focused on making ptychography more robust and accessi
 
 *   **Fine-tuning for challenging noise conditions:** We developed a method to account for the mixed Poisson-Gaussian noise statistics that are often present in experimental data. This allows for better image reconstruction quality, especially in low signal-to-noise ratio conditions. This work was published in [Optics Letters](https://doi.org/10.1364/OL.502344).
 
-*   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01532-z).
+*   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01558-3).
 
 ### Maker Space in Utrecht University
 In 2022, with a small team of staff lead from physics/biology/informatics, we set up the first maker space for digital fabrication at Utrecht University: [Lili's Proto Lab](https://www.uu.nl/en/research/lilis-proto-lab). It was a lot of fun working towards this grand opening, and I documented the first wave of (student) projects in the [yearly report of 2022](https://github.com/LilisProtoLab/LPL_yearly_report_2022/blob/main/LPL_report_2022.pdf).
