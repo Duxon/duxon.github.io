@@ -39,7 +39,7 @@ Check out my work on:
 ---
 
 ## Previous Projects
-### Auto-differentiable ptychography
+### Auto-Differentiable Ptychography
 Computational imaging is a novel imaging paradigm that aims to overcome the limitations of traditional imaging systems. Instead of forming a perfect image on a sensor, we measure some derived data (e.g. diffraction patterns) and use a computer to reconstruct the image. This allows us to build simpler imaging systems and to reconstruct information that would otherwise be lost.
 
 <img src="/assets/img/paradigms.png" alt="Paradigms" style="width: 480px;"/>
