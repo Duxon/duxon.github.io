@@ -48,11 +48,11 @@ Ptychography is a computational imaging technique that uses a series of diffract
 
 <img src="/assets/img/minimal_setup.png" alt="Minimal Setup" style="width: 480px;"/>
 
-My work in this field has focused on making ptychography more robust and accessible. Here are some of my contributions in chronological order:
+My Ph.D. work in this field has focused on making ptychography more robust and accessible. Here are some selected contributions in chronological order:
 
 *   **Open-source AD ptychography:** We developed an open-source ptychography framework based on automatic differentiation (AD). This makes it easier for researchers to develop and test new reconstruction algorithms. This work was published in [OSA Continuum](https://doi.org/10.1364/OSAC.411174).
 
-*   **Fine-tuning for challenging noise conditions:** We developed a method to account for the mixed Poisson-Gaussian noise statistics that are often present in experimental data. This allows for better image reconstruction quality, especially in low signal-to-noise ratio conditions. This work was published in [Optics Letters](https://doi.org/10.1364/OL.502344).
+*   **Fine-tuning for challenging noise conditions:** We developed a method to account for the mixed Poisson-Gaussian noise statistics that are often present in experimental data. This allows for better image reconstruction quality, especially in low signal-to-noise ratio conditions. This work was published in [Optics Letters](https://doi.org/10.1364/OL.502344) and also open-sourced.
 
 *   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01558-3).
 
