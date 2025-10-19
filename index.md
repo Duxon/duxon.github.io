@@ -42,11 +42,11 @@ Check out my work on:
 ### Auto-differentiable ptychography
 Computational imaging is a novel imaging paradigm that aims to overcome the limitations of traditional imaging systems. Instead of forming a perfect image on a sensor, we measure some derived data (e.g. diffraction patterns) and use a computer to reconstruct the image. This allows us to build simpler imaging systems and to reconstruct information that would otherwise be lost.
 
-<img src="/assets/img/paradigms.png" alt="Paradigms" style="width: 400px;"/>
+<img src="/assets/img/paradigms.png" alt="Paradigms" style="width: 480px;"/>
 
 Ptychography is a computational imaging technique that uses a series of diffraction patterns to reconstruct the image of a sample. A localized illumination is scanned across a sample, and for each position, a diffraction pattern is recorded. These diffraction patterns are then used to reconstruct the complex-valued transmission function of the sample.
 
-<img src="/assets/img/minimal_setup.png" alt="Minimal Setup" style="width: 400px;"/>
+<img src="/assets/img/minimal_setup.png" alt="Minimal Setup" style="width: 480px;"/>
 
 My work in this field has focused on making ptychography more robust and accessible. Here are some of my contributions in chronological order:
 
