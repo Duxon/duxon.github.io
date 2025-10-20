@@ -45,15 +45,15 @@ Computational imaging is a novel imaging paradigm that aims to overcome the limi
 
 <img src="/assets/img/paradigms.png" alt="Paradigms" style="width: 480px;"/>
 
-Ptychography is a computational imaging technique that uses a series of diffraction patterns to reconstruct the image of a sample. A localized illumination is scanned across a sample, and for each position, a diffraction pattern is recorded. These diffraction patterns are then used to reconstruct the complex-valued transmission function of the sample.
+Ptychography is a computational imaging method that uses a series of diffraction patterns to reconstruct the image of a sample. A localized illumination is scanned across a sample, and for each position, a diffraction pattern is recorded. These diffraction patterns are then used to reconstruct the complex-valued transmission function of the sample.
 
 <img src="/assets/img/minimal_setup.png" alt="Minimal Setup" style="width: 480px;"/>
 
-My Ph.D. work in this field has focused on making ptychography more robust and accessible. Here are some selected contributions in chronological order:
+My Ph.D. work in this field has focused on making ptychography more robust and accessible. Here are some selected contributions:
 
-*   **Open-source AD ptychography:** We developed an open-source ptychography framework based on automatic differentiation (AD). This makes it easier for researchers to develop and test new reconstruction algorithms. This work was published in [OSA Continuum](https://doi.org/10.1364/OSAC.411174).
+*   **Open-source AD ptychography:** We developed an open-source ptychography framework based on automatic differentiation (AD) and TensorFlow. This makes it easier for researchers to develop and test new reconstruction algorithms. This work was published in [OSA Continuum](https://doi.org/10.1364/OSAC.411174).
 
-*   **Fine-tuning for challenging noise conditions:** We developed a method to account for the mixed Poisson-Gaussian noise statistics that are often present in experimental data. This allows for better image reconstruction quality, especially in low signal-to-noise ratio conditions. This work was published in [Optics Letters](https://doi.org/10.1364/OL.502344) and also open-sourced.
+*   **Fine-tuning for challenging noise conditions:** We developed a method to account for the mixed Poisson-Gaussian noise statistics that are often present in experimental data. This allows for better image reconstruction quality, especially in low signal-to-noise ratio conditions. This work was published in [Optics Letters](https://doi.org/10.1364/OL.502344) and is also open-source.
 
 *   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01558-3).
 
@@ -61,7 +61,7 @@ My Ph.D. work in this field has focused on making ptychography more robust and a
 
     <img src="/assets/img/AE_comparison.gif" alt="Latent Space Walk" style="width: 480px;"/>
 
-    We use this property in ptychography for noise robustness. A cool ability of this method is that we can approximately visualize the loss landscape of this high-dimensional optimization problem (millions of parameters) to study its convexity properties. This work was published in [Optics Express](https://doi.org/10.1364/OE.513556).
+    We use this property in ptychography for noise robustness. A noteworthy ability of this method is that we can approximately visualize the loss landscape of this high-dimensional optimization problem (usually millions of parameters) to study its convexity properties in different noise conditions. This work was published in [Optics Express](https://doi.org/10.1364/OE.513556).
 
     <img src="/assets/img/loss_landscapes.jpeg" alt="Loss Landscapes" style="width: 480px;"/>
 
