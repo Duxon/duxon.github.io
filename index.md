@@ -57,7 +57,7 @@ My Ph.D. work in this field has focused on making ptychography more robust and a
 
 *   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01558-3).
 
-*   **Deep generative models for ptychography:** Natural images are often sparse in a latent space. We can visualize this with a latent space walk, which shows smooth transitions within an object class. Implicit rank-minimized autoencoders can be for this.
+*   **Deep generative models for ptychography:** Natural images are often sparse in a latent space. We can visualize this with a latent space walk, which shows smooth transitions within an object class. Implicit rank-minimized autoencoders can be used for this.
 
     <img src="/assets/img/AE_comparison.gif" alt="Latent Space Walk" style="width: 480px;"/>
 
