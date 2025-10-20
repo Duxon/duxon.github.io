@@ -57,11 +57,11 @@ My Ph.D. work in this field has focused on making ptychography more robust and a
 
 *   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01558-3).
 
-*   **Deep generative models for ptychography:** Natural images are often sparse in a latent space. We can visualize this with a latent space walk, which shows smooth representations of an object class. We used an implicit rank-minimized autoencoder for this.
+*   **Deep generative models for ptychography:** Natural images are often sparse in a latent space. We can visualize this with a latent space walk, which shows smooth transitions within an object class. Implicit rank-minimized autoencoders can be for this.
 
     <img src="/assets/img/AE_comparison.gif" alt="Latent Space Walk" style="width: 480px;"/>
 
-    We use this property in ptychography for noise robustness. A noteworthy ability of this method is that we can approximately visualize the loss landscape of this high-dimensional optimization problem (usually millions of parameters) to study its convexity properties in different noise conditions. This work was published in [Optics Express](https://doi.org/10.1364/OE.513556).
+    Then, we use this representation in a lower dimension for noise robustness. What I found cool is that we can now approximately visualize the loss landscape of this usually high-dimensional optimization problem (millions of parameters) to study the convexity properties in different noise conditions. This work was published in [Optics Express](https://doi.org/10.1364/OE.513556).
 
     <img src="/assets/img/loss_landscapes.jpeg" alt="Loss Landscapes" style="width: 480px;"/>
 
