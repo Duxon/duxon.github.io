@@ -39,6 +39,7 @@ Check out my work on:
 ---
 
 ## Previous Projects
+---
 ### Auto-Differentiable Ptychography
 Computational imaging is a novel imaging paradigm that aims to overcome the limitations of traditional imaging systems. Instead of forming a perfect image on a sensor, we measure some derived data (e.g. diffraction patterns) and use a computer to reconstruct the image. This allows us to build simpler imaging systems and to reconstruct information that would otherwise be lost.
 
@@ -56,6 +57,15 @@ My Ph.D. work in this field has focused on making ptychography more robust and a
 
 *   **Semiconductor application and metrology:** We demonstrated the use of ptychography for the metrology of semiconductor nanostructures. We developed a wavelength-multiplexed reconstruction algorithm that can handle the instabilities of the EUV sources used in this application. This work was published in [Light: Science & Applications](https://doi.org/10.1038/s41377-024-01558-3).
 
+*   **Deep generative models for ptychography:** Natural images are often sparse in a latent space. We can visualize this with a latent space walk, which shows smooth representations of an object class. We used an implicit rank-minimized autoencoder for this.
+
+    <img src="/assets/img/AE_comparison.gif" alt="Latent Space Walk" style="width: 480px;"/>
+
+    We use this property in ptychography for noise robustness. A cool ability of this method is that we can approximately visualize the loss landscape of this high-dimensional optimization problem (millions of parameters) to study its convexity properties. This work was published in [Optics Express](https://doi.org/10.1364/OE.513556).
+
+    <img src="/assets/img/loss_landscapes.jpeg" alt="Loss Landscapes" style="width: 480px;"/>
+
+---
 ### Maker Space in Utrecht University
 In 2022, with a small team of staff lead from physics/biology/informatics, we set up the first maker space for digital fabrication at Utrecht University: [Lili's Proto Lab](https://www.uu.nl/en/research/lilis-proto-lab). It was a lot of fun working towards this grand opening, and I documented the first wave of (student) projects in the [yearly report of 2022](https://github.com/LilisProtoLab/LPL_yearly_report_2022/blob/main/LPL_report_2022.pdf).
 
