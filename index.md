@@ -26,6 +26,10 @@
 
 <img src="/assets/img/me.png" alt="Jacob Seifert" style="width: 150px; border-radius: 50%;">
 
+I am Software and Algorithms Architect at [AIM Solutions](https://aim-solutions.nl) in Eindhoven, where we develop semiconductor metrology hardware. I lead the software side of the company and help it grow.
+
+Before AIM, I worked as a postdoctoral researcher in computational imaging and ptychography after completing my Ph.D. at Utrecht University.
+
 ## Weblinks to my projects and publications
 
 Check out my work on: 
@@ -35,6 +39,19 @@ Check out my work on:
 
 *   [Publications](/publications)
 *   [CV](/assets/pdf/CV.pdf)
+
+---
+
+## Current Work
+---
+### AIM Solutions (since 2026)
+[AIM Solutions](https://aim-solutions.nl) in Eindhoven is an early-stage deep-tech startup developing semiconductor metrology hardware. I joined in early 2026 as Software and Algorithms Architect, leading the software side of the company and helping it grow.
+
+My focus areas:
+
+*   **Software and algorithm architecture** for the computational platform behind the instrument.
+*   **Engineering practices and DevOps**, including development guidelines, CI workflows, and developer tooling.
+*   **Cross-disciplinary collaboration** with the optics, embedded, and integration teams.
 
 ---
 
